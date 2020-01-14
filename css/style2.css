@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+body{
+    background-image: url("../img/wood.jpg");
+
+}
+.gruppo_uno {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 10px;
+    background-color: grey;
+}
+.gruppo_due {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+        margin-left: 650px;
+        margin-right: 650px;
+        background-color: grey;
+}
+.gruppo_tre {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+        margin-left: 650px;
+        margin-right: 650px;
+        background-color: grey;
+}
+.gruppo_quattro {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+        margin-left: 650px;
+        margin-right: 650px;
+        background-color: grey;
+}
+header {
+    border-bottom: 2px solid grey;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.logo_gmail {
+    text-align: center;
+}
+h1 {
+    color: white;
+    margin-top: -10px;
+}
+.text {
+    color: white;
+    text-align: center;
+    margin-top: 10px
+}
+.mail {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+.search {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p {
+    text-align: center;
+    margin-top: 10px;
+}
+footer {
+    color: white;
+    margin-top: 10px;
+    border-top: 2px solid grey;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+bold {
+  color: black;
+  border-radius: 100px;
+  background-color: yellow;
+  background-position: left top;
+  padding: 5px;
+}

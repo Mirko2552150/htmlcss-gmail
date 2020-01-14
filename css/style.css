@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    color: white;
+
+}
+div {
+    /* se volessi avvicinare la scritta all'immagine? */
+    text-align: center;
+    font-family:"Roboto";
+}
+.search {
+    margin-top: 10px;
+}
+.logo-gmail{
+    margin-bottom: 20px
+}
+.avviso {
+    margin-bottom: 20px;
+}
+.prima-mail {
+    color: black;
+}
+.seconda-mail {
+    color: black;
+    margin: 1px dotted  black;
+
+}
+.terza-mail {
+    color: black;
+}
+.quarta-mail {
+    color: black;
+    margin-bottom: 20px;
+}
+.footer {
+    margin-top: 20px;
+}
